@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Subhan Kaladi</h1>
+<h3 align="center">🚀 Software Engineer | AI Enthusiast | Web Developer</h3>
 
-<!--
-**subhankaladi/subhankaladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhankaladi&color=blue" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me  
+- 🔭 I’m currently working on **Generative AI & Next.js**  
+- 🌱 I’m learning **Cloud Computing, Docker & TypeScript**  
+- 💬 Ask me about **JavaScript, TypeScript, AI & Cybersecurity**  
+- 📫 Reach me at: **subhankaladi@example.com**  
+- 🎨 I also create **Luxury & Modern 3D Logos**  
+
+---
+
+### 📂 My Projects  
+🚀 [**Nikee Jordee - E-Commerce Website**](https://github.com/subhankaladi/nikeejordee)  
+A stylish and responsive e-commerce store for Nike sneakers.  
+
+📝 [**BlogSite - AI-Powered Blogging Platform**](https://github.com/subhankaladi/blogsite)  
+An interactive blog site where users can post articles and engage with content.  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhankaladi&show_icons=true&theme=radical" alt="Subhan's GitHub Stats" />
+</p>
+
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=subhankaladi&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌍 Let's Connect  
+[![Twitter](https://img.shields.io/twitter/follow/subhankaladi?style=social)](https://twitter.com/subhankaladi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/subhankaladi)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
+</p>
