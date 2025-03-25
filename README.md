@@ -17,10 +17,10 @@
 ---
 
 ### 📂 My Projects  
-🚀 [**Nikee Jordee - E-Commerce Website**](https://github.com/subhankaladi/nikeejordee)  
+🚀 [**Nikee Jordee - E-Commerce Website**](https://nikeejordee.vercel.app/)  
 A stylish and responsive e-commerce store for Nike sneakers.  
 
-📝 [**BlogSite - AI-Powered Blogging Platform**](https://github.com/subhankaladi/blogsite)  
+📝 [**BlogSite - AI-Powered Blogging Platform**](https://blogsite-with-sanity.vercel.app/)  
 An interactive blog site where users can post articles and engage with content.  
 
 ---
@@ -48,9 +48,9 @@ An interactive blog site where users can post articles and engage with content.
 ---
 
 ### 🌍 Let's Connect  
-[![Twitter](https://img.shields.io/twitter/follow/subhankaladi?style=social)](https://twitter.com/subhankaladi)  
+[![Twitter](https://img.shields.io/twitter/follow/subhankaladi?style=social)](https://twitter.com/subhankaladi15)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/subhankaladi)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)  
+
 
 ---
 
