@@ -72,18 +72,4 @@ An interactive blog site where users can post articles and engage with content.
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
 </p>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0.0deg); }
-  10% { transform: rotate(14.0deg); }
-  20% { transform: rotate(-8.0deg); }
-  30% { transform: rotate(14.0deg); }
-  40% { transform: rotate(-4.0deg); }
-  50% { transform: rotate(10.0deg); }
-  60% { transform: rotate(0.0deg); }
-}
-.wave {
-  display: inline-block;
-  animation: wave 2s infinite;
-}
-</style>
+
