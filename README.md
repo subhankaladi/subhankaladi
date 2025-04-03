@@ -15,8 +15,7 @@
 ## 🔥 About Me  
 - 🔭 I’m currently working on **Generative AI & Next.js**  
 - 🌱 I’m learning **Cloud Computing, Docker & TypeScript**  
-- 💬 Ask me about **JavaScript, TypeScript, AI & Cybersecurity**  
-- 🎨 I also create **Luxury & Modern 3D Logos**  
+- 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**  
 
 ---
 
@@ -71,5 +70,3 @@ An interactive blog site where users can post articles and engage with content.
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
 </p>
-
-
