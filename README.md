@@ -18,6 +18,9 @@
 - 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**  
 
 ---
+##Portfolio
+😍[**Personal Portfolio**](https://subhankaladi.vercel.app/)
+Full responsive, Animated, Intractive and realtime Chatbot
 
 ## 📂 My Projects  
 🚀 [**Nikee Jordee - E-Commerce Website**](https://nikeejordee.vercel.app/)  
