@@ -18,7 +18,7 @@
 - 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**  
 
 ---
-##Portfolio
+## Portfolio
 😍[**Personal Portfolio**](https://subhankaladi.vercel.app/)
 Full responsive, Animated, Intractive and realtime Chatbot
 
