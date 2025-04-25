@@ -18,12 +18,22 @@
 - 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**  
 
 ---
-## Portfolio
-😍[**Personal Portfolio**](https://subhankaladi.vercel.app/)
-Full responsive, Animated, Intractive and realtime Chatbot
 
-## 📂 My Projects  
-🚀 [**Nikee Jordee - E-Commerce Website**](https://nikeejordee.vercel.app/)  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhankaladi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📂 My Portfolio  
+😍 [**Personal Portfolio**](https://subhankaladi.vercel.app/)  
+Full responsive, Animated, Interactive and Real-time Chatbot
+
+---
+
+## 🚀 My Projects  
+🛍️ [**Nikee Jordee - E-Commerce Website**](https://nikeejordee.vercel.app/)  
 A stylish and responsive e-commerce store for Nike sneakers.  
 
 📝 [**BlogSite - AI-Powered Blogging Platform**](https://blogsite-with-sanity.vercel.app/)  
