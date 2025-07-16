@@ -24,6 +24,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=subhankaladi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankaladi&theme=react-dark" alt="Contribution Graph" width="100%"/>
+</div>
+
+
 ---
 
 ## 📂 My Portfolio  
@@ -84,6 +89,3 @@ An interactive blog site where users can post articles and engage with content.
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark" alt="Contribution Graph" width="100%"/>
-</div>
