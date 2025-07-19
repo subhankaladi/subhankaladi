@@ -28,13 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankaladi&theme=react-dark" alt="Contribution Graph" width="100%"/>
 </div>
 
-
----
-
-## 📂 My Portfolio  
-😍 [**Personal Portfolio**](https://subhankaladi.vercel.app/)  
-Full responsive, Animated, Interactive and Real-time Chatbot
-
 ---
 
 ## 🚀 My Projects  
@@ -43,6 +36,12 @@ A stylish and responsive e-commerce store for Nike sneakers.
 
 📝 [**BlogSite - AI-Powered Blogging Platform**](https://blogsite-with-sanity.vercel.app/)  
 An interactive blog site where users can post articles and engage with content.  
+
+---
+
+## 📂 My Portfolio  
+😍 [**Personal Portfolio**](https://subhankaladi.vercel.app/)  
+Fully responsive, Animated, Interactive and Real-time Chatbot
 
 ---
 
@@ -59,6 +58,18 @@ An interactive blog site where users can post articles and engage with content.
 ### 💡 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankaladi&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 Top Contributor Pakistan  
+<p align="center">
+  <a href="https://committers.top/pakistan">
+    <img src="https://badgen.net/badge/Committers.Top/Check%20My%20Rank/green?icon=github" alt="Top Commit Pakistan" />
+  </a>  
+  <br/>
+  💻 Continuously contributing to open source and personal projects.  
+  🏆 Visit [committers.top/pakistan](https://committers.top/pakistan) to see my rank.
 </p>
 
 ---
@@ -88,4 +99,3 @@ An interactive blog site where users can post articles and engage with content.
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
 </p>
-
