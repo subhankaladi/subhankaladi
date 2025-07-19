@@ -62,18 +62,6 @@ Fully responsive, Animated, Interactive and Real-time Chatbot
 
 ---
 
-## 🧠 Top Contributor Pakistan  
-<p align="center">
-  <a href="https://committers.top/pakistan">
-    <img src="https://badgen.net/badge/Committers.Top/Check%20My%20Rank/green?icon=github" alt="Top Commit Pakistan" />
-  </a>  
-  <br/>
-  💻 Continuously contributing to open source and personal projects.  
-  🏆 Visit [committers.top/pakistan](https://committers.top/pakistan) to see my rank.
-</p>
-
----
-
 ## 💻 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
