@@ -13,9 +13,7 @@
   <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanyt.png" alt="Banner" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Expert;AI+Enthusiast;Full+Stack+Developer" />
-</h3>
+
 
 ---
 
