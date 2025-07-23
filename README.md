@@ -1,7 +1,8 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Expert;AI+Enthusiast;Full+Stack+Developer" />
-</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhankaladi&color=blue" alt="Profile Views" />
+</p>
+----
 <h1 align="center">
   <span class="wave">👋</span> Hi
 </h1>
@@ -10,11 +11,9 @@
   <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanbanner.png" alt="Banner" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhankaladi&color=blue" alt="Profile Views" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Expert;AI+Enthusiast;Full+Stack+Developer" />
+</h3>
 
 ---
 
