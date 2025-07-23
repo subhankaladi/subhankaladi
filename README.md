@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanyt" alt="Banner" />
+  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanyt.png" alt="Banner" />
 </p>
 
 <h3 align="center">
