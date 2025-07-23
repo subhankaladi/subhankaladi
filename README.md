@@ -13,6 +13,10 @@
   <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanyt.png" alt="Banner" />
 </p>
 
+<p align="center">
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@subhankaladi)
+</p>
+
 
 
 ---
@@ -55,7 +59,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Youtube](https://img.shields.io/badge/Youtube-2496ED?style=for-the-badge&logo=youtube&logoColor=white)
 
 ---
 
