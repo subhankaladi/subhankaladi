@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanyt.png" alt="Banner" />
+  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/assets/subhankyt.png" alt="Banner" />
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/skill.png" alt="Banner" />
+  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/assets/skill.png" alt="Banner" />
 </p>
 
 
