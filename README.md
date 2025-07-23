@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=subhankaladi&color=blue" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <a href="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" target="_blank"><img src="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" alt="GitRoll Profile Badge"/></a>
-</div>
+<a href="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubh88IFNyy4fgd1BRSWq3uN7ubOC3?theme=light" alt="GitRoll Profile Badge"/></a>
 
 <p align="center">
   <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanbanner.png" alt="Banner" />
