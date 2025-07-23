@@ -17,10 +17,10 @@
 
 ---
 
-## 🔥 About Me  
-- 🔭 I’m currently working on **Generative AI & Next.js**  
-- 🌱 I’m learning **Cloud Computing, Docker & TypeScript**  
-- 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**  
+<p align="center">
+  <img src="https://github.com/subhankaladi/subhankaladi/blob/main/skill.png" alt="Banner" />
+</p>
+
 
 ---
 
@@ -28,21 +28,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subhankaladi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
----
-
-## 🚀 My Projects  
-🛍️ [**Nikee Jordee - E-Commerce Website**](https://nikeejordee.vercel.app/)  
-A stylish and responsive e-commerce store for Nike sneakers.  
-
-📝 [**BlogSite - AI-Powered Blogging Platform**](https://blogsite-with-sanity.vercel.app/)  
-An interactive blog site where users can post articles and engage with content.  
-
----
-
-## 📂 My Portfolio  
-😍 [**Personal Portfolio**](https://subhankaladi.vercel.app/)  
-Fully responsive, Animated, Interactive and Real-time Chatbot
 
 ---
 
