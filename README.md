@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhankaladi&color=blue" alt="Profile Views" />
 </p>
----
 
 <p align="center">
   <img src="https://github.com/subhankaladi/subhankaladi/blob/main/subhanbanner.png" alt="Banner" />
