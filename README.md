@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
+  <a href="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" target="_blank"><img src="https://gitroll.io/profile/ubh88IFNyy4fgd1BRSWq3uN7ubOC3" alt="GitRoll Profile Badge"/></a>
 </div>
 
 <p align="center">
