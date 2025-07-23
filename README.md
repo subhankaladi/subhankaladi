@@ -24,10 +24,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=subhankaladi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankaladi&theme=react-dark" alt="Contribution Graph" width="100%"/>
-</div>
-
 ---
 
 ## 🚀 My Projects  
