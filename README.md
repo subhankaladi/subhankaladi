@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subhanbanner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/subhankaladi/subhankaladi/subhanbanner.png" alt="Banner" />
 </p>
 
 <h3 align="center">
